@@ -9,7 +9,7 @@ This repository contains the source code used for developing the experiments of 
 This dataset was recorded at the Knowledge Technology (WTM) group at the University of Hamburg and can be requested [here](https://www.inf.uni-hamburg.de/en/inst/ab/wtm/research/corpora.html).
 
 <p align="center">
-	<img src="assets/grit_dataset.png">
+	<img width="75%" src="assets/grit_dataset.png">
 </p>
 
 ### Montalbano Co-Speech Dataset
