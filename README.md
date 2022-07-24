@@ -8,12 +8,16 @@ This repository contains the source code used for developing the experiments of 
 ### GRIT Robot Commands Dataset
 This dataset was recorded at the Knowledge Technology (WTM) group at the University of Hamburg and can be requested [here](https://www.inf.uni-hamburg.de/en/inst/ab/wtm/research/corpora.html).
 
+<p align="center">
 ![GRIT Dataset](assets/grit_dataset.png)
+</p>
 
 ### Montalbano Co-Speech Dataset
 This dataset was recorded as part of the ChaLearn Looking at People Challenge and can be downloaded from [here](https://chalearnlap.cvc.uab.cat/dataset/12/description/).
 
+<p align="center">
 ![Montalbano Dataset](assets/montalbano_dataset.png)
+</p>
 
 ## Usage
 Script `1) create_sequence_frames` converts the video source of the Montalbano dataset into frames and requires the following parameters:
