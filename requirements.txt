@@ -1,0 +1,14 @@
+python-csv
+numpy
+matplotlib
+scikit-image
+scipy
+pickle-mixin
+python-csv
+pandas
+Pillow
+scikit-learn
+statistics
+torch
+torchvision
+collection
