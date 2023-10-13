@@ -1,7 +1,7 @@
 
 # Snapture - A Novel Neural Architecture for Combined Static and Dynamic Hand Gesture Recognition
 This repository contains the source code used for developing the experiments of the paper titled: 
-[Snapture - A Novel Neural Architecture for Combined Static and Dynamic Hand Gesture Recognition](https://arxiv.org/abs/2205.15862) (pre-print) by Hassan Ali, Doreen Jirak and Stefan Wermter. The study was conducted in the Knowledge Technology (WTM) group at the University of Hamburg.
+[Snapture - A Novel Neural Architecture for Combined Static and Dynamic Hand Gesture Recognition](https://link.springer.com/article/10.1007/s12559-023-10174-z) (Open access) by Hassan Ali, Doreen Jirak and Stefan Wermter. The study was conducted in the Knowledge Technology (WTM) group at the University of Hamburg.
 
 <p align="center">
 	<img width="75%" src="assets/snapshot_samples.png">
