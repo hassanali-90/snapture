@@ -69,12 +69,17 @@ test_labels.csv: test labels of the Montalbano dataset
 ## Citation
 To cite our paper, you can copy the following into your `.bib` file
 ```BibTeX
-@Article{ali2022,
-author = {Ali, Hassan and Jirak, Doreen and Wermter, Stefan},
-year = {2022},
-month = {05},
-title = {Snapture -- A Novel Neural Architecture for Combined Static and Dynamic Hand Gesture Recognition},
-doi = {10.48550/arXiv.2205.15862}
+@Article{Ali2023,
+author={Ali, Hassan and Jirak, Doreen and Wermter, Stefan},
+title={Snapture---a Novel Neural Architecture for Combined Static and Dynamic Hand Gesture Recognition},
+journal={Cognitive Computation},
+year={2023},
+month={Jul},
+day={17},
+abstract={As robots are expected to get more involved in people's everyday lives, frameworks that enable intuitive user interfaces are in demand. Hand gesture recognition systems provide a natural way of communication and, thus, are an integral part of seamless human-robot interaction (HRI). Recent years have witnessed an immense evolution of computational models powered by deep learning. However, state-of-the-art models fall short of expanding across different gesture domains, such as emblems and co-speech. In this paper, we propose a novel hybrid hand gesture recognition system. Our Snapture architecture enables learning both static and dynamic gestures: by capturing a so-called snapshot of the gesture performance at its peak, we integrate the hand pose and the dynamic movement. Moreover, we present a method for analyzing the motion profile of a gesture to uncover its dynamic characteristics, which allows regulating a static channel based on the amount of motion. Our evaluation demonstrates the superiority of our approach on two gesture benchmarks compared to a state-of-the-art CNNLSTM baseline. Our analysis on a gesture class basis unveils the potential of our Snapture architecture for performance improvements using RGB data. Thanks to its modular implementation, our framework allows the integration of other multimodal data, like facial expressions and head tracking, which are essential cues in HRI scenarios, into one architecture. Thus, our work contributes both to integrative gesture recognition research and machine learning applications for non-verbal communication with robots.},
+issn={1866-9964},
+doi={10.1007/s12559-023-10174-z},
+url={https://doi.org/10.1007/s12559-023-10174-z}
 }
 ```
 
